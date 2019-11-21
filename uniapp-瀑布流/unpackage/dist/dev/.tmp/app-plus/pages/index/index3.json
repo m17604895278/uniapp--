@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "首页",
+  "enablePullDownRefresh": false,
+  "navigationStyle": "custom",
+  "onReachBottomDistance": 80,
+  "titleNView": false,
+  "scrollIndicator": "none",
+  "usingComponents": {
+    "watefall": "/components/waterfall/index"
+  }
+}

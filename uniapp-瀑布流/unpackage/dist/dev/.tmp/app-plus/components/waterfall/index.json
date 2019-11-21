@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "left-waterfall": "/components/waterfall/left/left-waterfall"
+  },
+  "component": true
+}

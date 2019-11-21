@@ -1,0 +1,20 @@
+{
+  "pages": [
+    "pages/index/index3"
+  ],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "nvueCompiler": "weex",
+  "renderer": "auto",
+  "splashscreen": {
+    "alwaysShowBeforeRender": true,
+    "autoclose": false
+  },
+  "appname": "uniapp-瀑布流",
+  "compilerVersion": "2.2.1",
+  "usingComponents": {}
+}
